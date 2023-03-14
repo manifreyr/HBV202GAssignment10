@@ -1,4 +1,4 @@
-package is.hi.hbv202g.ass9.compositeLeafObservedByTopLevelComposite;
+package is.hi.hbv202g.ass9.compositeLeafObserverTemplateMethod;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
