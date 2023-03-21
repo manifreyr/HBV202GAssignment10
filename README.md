@@ -22,3 +22,5 @@ Maven:
 
 [Class Diagram](/src/site/markdown/design.md)
 
+License:
+[License file](/LICENSE)
