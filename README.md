@@ -17,5 +17,8 @@ Both the implementation and the tests are in Java package `is.hi.hbv202g.ass9`, 
 Maven:
 
 - `mvn compile` compiles all implementation classes.
+- `mvn compile exec:java` compiles all implementation classes and runs main.
 - `mvn test` runs all test cases (i.e. all classes with a name that either starts with `Test` or ends with `Test`, `Tests`, or `TestCase`).
+
+[Class Diagram](/src/site/markdown/design.md)
 
